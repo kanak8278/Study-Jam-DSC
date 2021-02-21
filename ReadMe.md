@@ -1,4 +1,4 @@
-![Study Jam](./Study Jam.jpeg?raw=true "Title")
+![Study Jam](https://github.com/kanak8278/Study-Jam-DSC/blob/main/Study%20Jam.jpeg)
 
 These files are for workshop taken on 22nd Feb'21 at Data Summit.
 Several of the files are taken from other courses--
